@@ -7,16 +7,15 @@ Your mission: **revise and improve it**, making it coherent, funny, and illustra
 
 ## Our Wonderful Story
 
-1. Once upon a time, there was a **castle**.  
-   ![castle](img1.png)
+1. Once upon a time, there was a **castle** so old that its front door had a "Please Knock Twice" sign and a doorbell that had given up years ago.  
+   ![castle](img/castle.png)
 
-2. Then suddenly, a **dragon** appeared… but maybe it was actually a **robot**?  
-   (Nobody is sure yet.)
+2. One morning, a **dragon** swooped down from the clouds, breathing fire and roaring. Everyone screamed. Then it sneezed, and a small puff of steam came out, along with a loud *beep-boop*. "It's not a dragon," whispered the cook. "It's a **robot**!" Both were right. It was a robot dragon named Sparky, built by the castle's scientist, Dr. Pimm.
 
-3. The scientist shouted something very important but nobody wrote it down.  
+3. Dr. Pimm ran out waving her arms and shouted, "**Whatever you do, don't press the big red button!**" The royal scribe was busy eating a sandwich and wrote nothing down. This turned out to be a mistake.
 
 4. After that, everyone got lost (or maybe teleported?) and somehow there was a **treasure chest**…  
-   ![treasure chest](img2.png)
+   ![alt text](img/dragon.png)
 
 5. Someone found a map, but it had no directions.  
    (TODO: add an image of the map?)  
@@ -25,9 +24,8 @@ Your mission: **revise and improve it**, making it coherent, funny, and illustra
 
 7. A rocket blasted off, but at the same time the **time machine** broke down.  
 
-8. The cat was supposed to talk here, but the line is missing.  
+8. 
 
-9. In the forest, the detective discovered… something.  
-   (What did they find?)  
+9. 
 
-10. The ending… well, we don’t really have one. Please fix this.
+10. 
