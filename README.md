@@ -21,10 +21,10 @@ Your mission: **revise and improve it**, making it coherent, funny, and illustra
 
 6. "I'm Captain Pickles," said the pirate, "and I've been napping in this chest for three hundred years. I'm tired of treasure. **Let's go to space!**" Nobody could think of a good reason to say no. 
 
-7. A rocket blasted off, but at the same time the **time machine** broke down.  
+7. Dr. Pimm built a rocket out of the castle's chimney in under five minutes. It **blasted off**, and at the same moment her **time machine** broke down with a sad *clunk*. The rocket flew up, hung in the air for a second, and then fell back into the forest, because the time machine had been holding the whole plan together.
 
-8. 
+8. Everyone sat in the leaves, dizzy and covered in soot. Then the cat finally spoke. "Before anyone asks: yes, I pressed the button. No, I'm not sorry. You were all late with my dinner."
 
-9. 
+9. In the forest, the **detective**, who had been following the group for no clear reason, discovered... **a tree with a big red X carved into it**. Under it was a small, dusty box. Inside was Dr. Pimm's missing note from earlier, which said: "If the cat is near the red button, give the cat a snack."
 
-10. 
+10. Everyone looked at the cat. The cat looked at everyone. The cook ran back to the castle and returned with a bowl of tuna. The cat ate it, purred, and pushed the button on Dr. Pimm's repaired time machine to send everyone home. Back at the castle, Sparky guarded the door, Captain Pickles moved into the guest room, and the scribe finally wrote it all down, starting with a note on the fridge: **"Feed the cat on time."**
