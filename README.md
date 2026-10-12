@@ -16,7 +16,7 @@ Your mission: **revise and improve it**, making it coherent, funny, and illustra
 3. Dr. Pimm ran out waving her arms and shouted, "**Whatever you do, don't press the big red button!**" The royal scribe was busy eating a sandwich and wrote nothing down. This turned out to be a mistake. ![scientist](img/scientist.png)
 
 4. Naturally, the cat pressed the big red button. Everyone, including the dragon, the cook, and the scribe, was teleported (or maybe just very lost) into a dusty cave. In the middle sat a **treasure chest**, and it was snoring.  
-   ![treasure chest](img/treasure_large.png)
+   ![treasure chest](img/treasure_large.png) ![treasur open](img/treasure_open.png)
 
 5. The chest woke up. Out climbed a very sleepy pirate with a parrot hat. Taped inside the lid was a **map**. It had a big red X, a drawing of a tree, and the words "Good luck!" There were no directions anywhere. "That's the whole map," the pirate said proudly. "I like to keep things mysterious." ![map](img/map.png)
 
